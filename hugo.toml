@@ -4,4 +4,6 @@ title = 'Liam's Portfolio'
 theme = 'paige'
 publishDir = 'docs'
 
-
+[params]
+  title = "Liam's Portfolio"
+  subtitle = "Engineer → AI/Software"
