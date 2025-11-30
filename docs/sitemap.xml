@@ -2,8 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://liamtmk.github.io/portfolio/categories/</loc>
+    <loc>http://localhost:1313/portfolio/about/</loc>
+    <lastmod>2025-11-27T20:09:44-07:00</lastmod>
   </url><url>
-    <loc>https://liamtmk.github.io/portfolio/tags/</loc>
+    <loc>http://localhost:1313/portfolio/</loc>
+    <lastmod>2025-11-27T20:08:54-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/tags/</loc>
   </url>
 </urlset>

@@ -49,21 +49,21 @@
         
 
         
-            <link>http://localhost:1313/portfolio/tags/</link>
+            <link>http://localhost:1313/portfolio/about/</link>
         
 
         
-            <atom:link href="http://localhost:1313/portfolio/tags/rss.xml" hreflang="en-us" rel="self" type="application/rss+xml"/>
+            <atom:link href="http://localhost:1313/portfolio/about/rss.xml" hreflang="en-us" rel="self" type="application/rss+xml"/>
         
 
         
             
 
-            <atom:link href="http://localhost:1313/portfolio/tags/" hreflang="en-us" rel="alternate" type="text/html"/>
+            <atom:link href="http://localhost:1313/portfolio/about/" hreflang="en-us" rel="alternate" type="text/html"/>
         
             
 
-            <atom:link href="http://localhost:1313/portfolio/tags/rss.xml" hreflang="en-us" rel="alternate" type="application/rss+xml"/>
+            <atom:link href="http://localhost:1313/portfolio/about/rss.xml" hreflang="en-us" rel="alternate" type="application/rss+xml"/>
         
 
         
@@ -71,7 +71,7 @@
         
 
         
-            <title>Tags · Liam Tompkins - Portfolio</title>
+            <title>About · Liam Tompkins - Portfolio</title>
         
 
         

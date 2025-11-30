@@ -2,6 +2,6 @@ baseURL = 'https://liamtmk.github.io/portfolio/'
 languageCode = 'en-us'
 title = 'Liam Tompkins - Portfolio'
 theme = 'paige'
-publishDir = 'docs' 
+publishDir = 'docs'
 
 
