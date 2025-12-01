@@ -4,16 +4,16 @@ title = ""
 +++
 
 <div class="row justify-content-center">
-    <div class="col-md-5">
+    <div class="col-md-4 text center px-4">
         <img
         src="/portfolio/images/home.png"
         alt="Home Image"
-        class="img-fluid rounded shadow"
+        class="img-fluid rounded-3 shadow"
         />
     </div>
 </div>
 
-<h2 class="text-center mt-4 fw-normal" style="font-size: 1.9rem;">A collection of things built and fixed</h2>
+<h2 class="text-center mt-4 fw-normal" style="font-size: 1.9rem;">Things I’ve Built and Worked On</h2>
 
 <div class="row justify-content-center">
   <div class="col-md-8 col-lg-10">
