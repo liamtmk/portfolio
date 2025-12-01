@@ -41,3 +41,25 @@ disable_credit = true
 
 [markup.goldmark.renderer]
 unsafe = true
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 2
+
+[[menu.main]]
+name = "University"
+url = "/university/"
+weight = 3
+
+[[menu.main]]
+name = "Projects"
+url = "/projects/"
+weight = 4
+
+ 
